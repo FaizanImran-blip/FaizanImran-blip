@@ -17,7 +17,8 @@
     <img src="https://skillicons.dev/icons?i=github,dart,cpp,docker,flutter,git" />
   </a>
 </p>
-# Github Status
+
+## Github Status:
 
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=radical)
 
