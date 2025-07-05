@@ -17,6 +17,7 @@
 # Github Status
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=radical)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FaizanImran-blip&theme=onedark&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Fake Radar](https://i.imgur.com/YourUploadedImageLink.png)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaizanImran-blip&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=junaidjameel&color=blue)
