@@ -10,8 +10,7 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/yourprofile)
-
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faizan123)
 ## 🛠️ Languages and Tools:<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,dart,cpp,docker,flutter,git" />
