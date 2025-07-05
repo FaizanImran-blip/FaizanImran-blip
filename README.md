@@ -18,8 +18,7 @@
   </a>
 </p>
 # Github Status
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaizanImran-blip&theme=radical)
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=junaidjameel&color=blue)
