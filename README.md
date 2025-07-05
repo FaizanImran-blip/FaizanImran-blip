@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/yourprofile)
 
 ## 🛠️ Languages and Tools:
-![git](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg)
+![GitHub Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>    <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>    <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=for-the-badge&logo=adobexd&logoColor=white"/>    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 # Github Status
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=radical)
