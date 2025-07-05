@@ -9,8 +9,8 @@
 - 📧 Reach me at: [faizan.cpp@gmail.com](mailto:faizan.cpp@gmail.com)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faizan123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
 ## 🛠️ Languages and Tools:<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,dart,cpp,docker,flutter,git" />
