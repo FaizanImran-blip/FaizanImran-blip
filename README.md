@@ -9,7 +9,7 @@
 - 📧 Reach me at: [faizan.cpp@gmail.com](mailto:faizan.cpp@gmail.com)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-imran-898459373/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-imran-5a9ab9375/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
 ## 🛠️ Languages and Tools:<p align="center">
   <a href="https://skillicons.dev">
