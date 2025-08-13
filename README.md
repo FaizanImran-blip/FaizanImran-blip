@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Faizan Imran (he/him)
+# Hi, I'm Faizan Imran (he/him)
 
 🚀 Flutter Developer | Passionate about UI and FullStack performance  
-🛠️ Helping devs build better apps with Flutter  
+🛠️ Helping devs build Powerful Apps Or Websites 
 📦 Always learning, always shipping!
 
 - 💼 Working on Technologies or diffrent projects
