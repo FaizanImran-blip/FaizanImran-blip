@@ -20,11 +20,17 @@ I specialize in building scalable apps and websites with AI integrations and ful
 ## Tech Stack
 
 • Languages: Dart, JavaScript/TypeScript, Python, C++
+
 • Mobile: Flutter
+
 • Backend: Node.js, Express.js,  Firebase Functions
+
 • Frontend: React, Next.js, Tailwind CSS
+
 • Databases: Firestore, MySQL, PostgreSQL, MongoDB
+
 • AI/LLM: OpenAI APIs, LangChain basics, custom intent-based chatbots
+
 • Cloud & Tools: Firebase, Vercel, Netlify, GitHub Actions, Docker (learning)
 
 ## Github Status:
