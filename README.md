@@ -17,11 +17,15 @@ I specialize in building scalable apps and websites with AI integrations and ful
 
 • Work with databases (Firestore, MySQL, PostgreSQL, MongoDB)
 
-## 🛠️ Languages and Tools:<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,dart,cpp,docker,flutter,git" />
-  </a>
-</p>
+## Tech Stack
+
+• Languages: Dart, JavaScript/TypeScript, Python, C++
+• Mobile: Flutter
+• Backend: Node.js, Express.js,  Firebase Functions
+• Frontend: React, Next.js, Tailwind CSS
+• Databases: Firestore, MySQL, PostgreSQL, MongoDB
+• AI/LLM: OpenAI APIs, LangChain basics, custom intent-based chatbots
+• Cloud & Tools: Firebase, Vercel, Netlify, GitHub Actions, Docker (learning)
 
 ## Github Status:
 
