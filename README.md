@@ -6,10 +6,15 @@ I specialize in building scalable apps and websites with AI integrations and ful
 ## What I Do
 
 • Design and build mobile applications (Flutter, Dart)
+
 • Develop backend systems & APIs (Node.js, Express, Firebase)
+
 • Build AI-powered chatbots & integrations (OpenAI APIs, NLP, intent-based systems)
+
 • Architect full-stack web apps (React, Next.js, Tailwind CSS)
+
 • Deploy & manage cloud solutions (Firebase, Vercel, Netlify, AWS basics)
+
 • Work with databases (Firestore, MySQL, PostgreSQL, MongoDB)
 
 ## 🛠️ Languages and Tools:<p align="center">
