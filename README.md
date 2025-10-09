@@ -1,6 +1,6 @@
 # Muhammad Faizan Imran
 **AI Engineer | Full-Stack Architect | Smart Apps & Web Solutions**  
- Based in Lahore, Pakistan  
+📍 Based in Lahore, Pakistan  
 
 I specialize in building **scalable apps and websites** with **AI integrations** and **full-stack architecture**. With **2+ years of experience**, I’ve delivered end-to-end digital solutions for businesses and startups. Currently, I’m pursuing my degree at the **University of Management and Technology**.  
 
