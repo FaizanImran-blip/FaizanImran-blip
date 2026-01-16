@@ -1,46 +1,55 @@
-Muhammad Faizan Imran
-AI Engineer | Full-Stack Architect | Smart Apps & Web Solutions
-📍 Lahore, Pakistan | 🎓 University of Management & Technology
+# Muhammad Faizan Imran  
+**AI Engineer | Full-Stack Architect | Smart Apps & Web Solutions**  
+📍 Based in Lahore, Pakistan  
 
-2+ years of hands-on experience delivering end-to-end digital products—from concept to deployment—with a strong focus on AI-powered applications, scalable full-stack systems, and clean, maintainable architecture. Passionate about building intelligent systems that solve real business problems.
+I’m a **full-stack engineer and AI innovator** specializing in **scalable, intelligent apps and web solutions**. With **2+ years of hands-on experience**, I’ve successfully delivered **end-to-end solutions for startups and enterprises**, integrating AI to create smarter user experiences. Currently pursuing my degree at the **University of Management and Technology**, I blend **academic knowledge with real-world execution**.  
 
-🚀 Core Expertise
-• AI & Chatbots: Custom LLM integrations, OpenAI APIs, NLP, intent-based conversational AI, LangChain workflows
-• Mobile Development: Cross-platform apps with Flutter & Dart, clean architecture, state management
-• Backend & APIs: Node.js, Express, serverless (Firebase Functions), REST & GraphQL, microservices patterns
-• Frontend: React, Next.js, TypeScript, Tailwind CSS, responsive & performant UIs
-• Cloud & DevOps: Firebase, Vercel, Netlify, AWS basics, CI/CD (GitHub Actions), Docker (learning)
-• Databases: Firestore, PostgreSQL, MySQL, MongoDB, schema design & optimization
+---
 
-📈 What I Bring to the Table
-✅ Full-Stack Ownership – From UI/UX to backend logic, database design, and cloud deployment
-✅ AI Integration Skill – Embedding intelligence into apps: chatbots, content generators, smart automations
-✅ Performance & Scalability – Building systems that grow with user demand
-✅ Clean Code & Best Practices – Maintainable, documented, and tested solutions
-✅ Startup Mindset – Fast iteration, business-focused development, and product thinking
+## 🚀 Let’s Connect
+- **LinkedIn:** [Faizan Imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)  
+- **Email 1:** faizan.macklink12@gmail.com  
+- **Email 2:** faizan.cpp@gmail.com  
 
-🛠️ Tech Stack
-Languages: Dart, JavaScript/TypeScript, Python, C++
-Mobile: Flutter, Provider, Bloc, Firebase Mobile SDKs
-Frontend: React, Next.js, Tailwind CSS, ShadCN/ui
-Backend: Node.js, Express.js, Firebase Functions, FastAPI (Python)
-AI/ML Tools: OpenAI API, LangChain, Hugging Face, custom intent/entity models
-Databases: Firestore, PostgreSQL, MySQL, MongoDB, Redis (caching)
-Cloud & Dev: Firebase, Vercel, Netlify, AWS (EC2, S3), GitHub Actions, Docker
+> Always open to **collaborations, mentorship, and innovative projects**.
 
-📫 Let's Connect & Collaborate
-LinkedIn: linkedin.com/in/faizan-imran-b5403537a
-Email: faizan.macklink12@gmail.com / faizan.cpp@gmail.com
-GitHub: github.com/FaizanImran-blip
+---
 
-I'm open to AI/Full-Stack roles, freelance projects, and tech collaborations—especially in AI-driven products and scalable app development.
+## 💡 What I Do
+I design and deliver **end-to-end digital experiences** with a focus on **performance, AI, and scalability**:  
+- **Mobile Apps:** Flutter & Dart – intuitive, high-performance apps  
+- **Backend & APIs:** Node.js, Express, Firebase – reliable & scalable systems  
+- **AI & Chatbots:** OpenAI APIs, NLP, intent-based systems – human-like interactions  
+- **Full-Stack Web Apps:** React, Next.js, Tailwind CSS – modern responsive UIs  
+- **Cloud Solutions:** Firebase, Vercel, Netlify, AWS – seamless deployment  
+- **Databases:** Firestore, MySQL, PostgreSQL, MongoDB – structured & real-time data  
 
-📊 GitHub Stats
+---
 
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide_title=false&hide=prs,issues&count_private=true&theme=tokyonight&show_icons=true&line_height=28)
+## ⚡ Tech Stack
+- **Languages:** Dart | JavaScript/TypeScript | Python | C++  
+- **Mobile:** Flutter  
+- **Backend:** Node.js | Express.js | Firebase Functions  
+- **Frontend:** React | Next.js | Tailwind CSS  
+- **Databases:** Firestore | MySQL | PostgreSQL | MongoDB  
+- **AI & LLM:** OpenAI APIs | LangChain basics | Custom AI chatbots  
+- **Cloud & Tools:** Firebase | Vercel | Netlify | GitHub Actions | Docker (learning)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanImran-blip&layout=compact&theme=tokyonight&langs_count=6)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=FaizanImran-blip&color=blue&style=flat-square)
+## 🏆 Achievements & Highlights
+- Built **AI-powered chatbots** that improve customer engagement by 60%+  
+- Delivered **startup-ready apps** with modern UI & backend architecture  
+- Designed **scalable systems** handling thousands of concurrent users  
+- Collaborated on projects integrating **AI, cloud, and mobile** seamlessly  
+- Experienced in **end-to-end product development**, from idea to deployment  
 
-Building the future, one intelligent app at a time. 🚀
+> Founders and startups: I’m ready to **turn your ideas into reality** with scalable, intelligent solutions.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=FaizanImran-blip&color=blue)  
