@@ -47,9 +47,12 @@ I design and deliver **end-to-end digital experiences** with a focus on **perfor
 > Founders and startups: I’m ready to **turn your ideas into reality** with scalable, intelligent solutions.  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)  
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanImran-blip&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaizanImran-blip&theme=dark&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaizanImran-blip&color=blue)  
