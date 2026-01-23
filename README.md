@@ -2,13 +2,12 @@
 
 **Location:** Lahore, Pakistan  
 **Email:** [faizan.macklink12@gmail.com](mailto:faizan.cpp@gmail.com) 
-
 **LinkedIn:** [Faizan Imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)
 
 ---
 
 ## About Me
-I am a full-stack engineer and AI developer with over 2 years of experience building scalable and intelligent applications for startups and enterprises. My focus is on AI-driven solutions, chat systems, and end-to-end product development, combining academic knowledge from the University of Management and Technology with practical execution.
+I am a full-stack engineer and AI developer with over 5 years of experience building scalable and intelligent applications for startups and enterprises. My focus is on AI-driven solutions, chat systems, and end-to-end product development, combining academic knowledge from the University of Management and Technology with practical execution.
 
 I deliver efficient, intuitive, and scalable digital products.
 
