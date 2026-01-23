@@ -1,6 +1,6 @@
 # Senior AI Engineer | Full-Stack Developer | Founder | AI & Decentralized Systems
 
-**Location:**Pakistan  
+**Location:** Pakistan  
 **Email:** [faizan.macklink12@gmail.com](mailto:faizan.cpp@gmail.com) 
 
 **LinkedIn:** [Faizan Imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)
