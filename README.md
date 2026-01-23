@@ -6,7 +6,7 @@ I’m a **full-stack engineer and AI innovator** specializing in **scalable, int
 
 ---
 
-## 🚀 Let’s Connect
+
 - **LinkedIn:** [Faizan Imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)  
 - **Email 1:** faizan.macklink12@gmail.com  
 - **Email 2:** faizan.cpp@gmail.com  
