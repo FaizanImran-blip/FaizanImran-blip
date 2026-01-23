@@ -2,7 +2,14 @@
 **AI Engineer | Full-Stack Architect | Smart Apps & Web Solutions**  
 📍 Based in Lahore, Pakistan  
 
-I’m a **full-stack engineer and AI innovator** specializing in **scalable, intelligent apps and web solutions**. With **2+ years of hands-on experience**, I’ve successfully delivered **end-to-end solutions for startups and enterprises**, integrating AI to create smarter user experiences. Currently pursuing my degree at the **University of Management and Technology**, I blend **academic knowledge with real-world execution**.  
+By profession I am an AI engineer and a full stack developer and a mobile app developer.
+I build scalable web apps mobile apps and AI based systems.
+I work with HTML Tailwind CSS JavaScript and Flutter for iOS and Android.
+I also develop AI models chatbots and smart automation tools.
+I create and integrate APIs including payment systems like Stripe and other major platforms.
+I am a self driven learner who loves solving real problems with technology.
+I enjoy building products that are easy to use fast to scale and helpful for real users.
+My focus is always on creating complete solutions with web app mobile app and AI features together. 
 
 ---
 
