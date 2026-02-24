@@ -1,4 +1,4 @@
-# Senior AI Engineer | Full-Stack Developer | Founder | AI & Decentralized Systems
+# Senior AI Engineer | Full-Stack Developer | AI & Decentralized Systems
 
 **Location:** Pakistan  
 **Email:** [faizan.macklink12@gmail.com](mailto:faizan.cpp@gmail.com) 
