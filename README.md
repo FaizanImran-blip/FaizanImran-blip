@@ -1,4 +1,4 @@
-# Senior AI Engineer | Full-Stack Developer | AI & Decentralized Systems
+# Senior AI Engineer | Transforming Businesses with Intelligent Automation | LLM & AI-Driven Solutions | Enterprise API & Workflow Architect | Solopreneur
 
 **Location:** Pakistan  
 **Email:** [faizan.macklink12@gmail.com](mailto:faizan.cpp@gmail.com) 
