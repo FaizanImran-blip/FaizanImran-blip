@@ -35,6 +35,3 @@ Full-Stack Developer & AI Engineer with 5+ years of experience building scalable
 - Email: faizan.cpp@gmail.com
 - LinkedIn: [linkedin.com/in/faizan-imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)
 
----
-
-*README automatically demonstrates pro-level skills, tech stack, and achievements while remaining concise and credible.*
