@@ -33,8 +33,8 @@ Full-Stack Developer & AI Engineer with 5+ years of experience building scalable
 
 ## Contact
 - GitHub: [FaizanImran-blip](https://github.com/FaizanImran-blip)  
-- Email: faizan@example.com  
-- LinkedIn: [linkedin.com/in/faizan-imran](https://linkedin.com/in/faizan-imran)
+- Email: faizan.cpp@gmail.com
+- LinkedIn: [linkedin.com/in/faizan-imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)
 
 ---
 
