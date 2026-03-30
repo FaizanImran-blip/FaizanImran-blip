@@ -6,7 +6,7 @@ Full-Stack Developer & AI Engineer with 5+ years of experience building scalable
 ## Expertise
 - **Mobile Apps:** Flutter & Dart – fast, intuitive apps  
 - **Backend & APIs:** Node.js, Express, Firebase – reliable systems  
-- **AI & Chatbots:** OpenAI APIs, NLP – human-like interactions  
+- **AI & Chatbots:** OpenAI APIs, NLP, custom neural networks, fine-tuning models – human-like interactions
 - **Web Apps:** React, Next.js, Tailwind CSS – responsive UIs  
 - **Cloud & Deployment:** Firebase, Vercel, AWS – smooth deployments  
 - **Databases:** Firestore, MySQL, PostgreSQL, MongoDB  
