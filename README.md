@@ -24,7 +24,7 @@ Full-Stack Developer & AI Engineer with 5+ years of experience building scalable
 ---
 
 ## Achievements
-- Built AI-powered chatbots boosting engagement by 60%  
+- Built AI-powered chatbots boosting engagement by 80%  
 - Delivered startup-ready apps with modern UIs and scalable backends  
 - Handled systems with thousands of concurrent users  
 - Integrated AI, cloud, and mobile solutions seamlessly  
@@ -32,20 +32,8 @@ Full-Stack Developer & AI Engineer with 5+ years of experience building scalable
 ---
 
 ## Contact
-- GitHub: [FaizanImran-blip](https://github.com/FaizanImran-blip)  
 - Email: faizan.cpp@gmail.com
 - LinkedIn: [linkedin.com/in/faizan-imran](https://www.linkedin.com/in/faizan-imran-b5403537a/)
-
----
-
-## Projects
-Here are a few highlights of my work:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| AI Chatbot | Human-like chatbot with intent-based responses | Flutter, Node.js, OpenAI |
-| Movie Streaming App | Modern streaming UI with categories & poster swipe | Flutter, Firebase |
-| Full-Stack Web App | Startup-ready web platform with responsive design | React, Next.js, Tailwind, Node.js |
 
 ---
 
