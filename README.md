@@ -1,8 +1,6 @@
 ## About Me
-I am a full-stack developer and AI engineer with over 5 years of experience building scalable and intelligent applications for startups and enterprises. My focus is on AI-driven solutions, chat systems, and end-to-end product development, combining academic knowledge from the University of Management and Technology with practical execution.
 
-I deliver efficient, intuitive, and scalable digital products.
-
+I am a Full-Stack Developer and AI Engineer with over 5 years of experience in building scalable, intelligent applications for startups and enterprises. My expertise lies in AI-driven solutions, chat systems, and end-to-end product development. I combine practical experience as a solo entrepreneur with a deep understanding of modern technologies to deliver impactful products.
 ---
 
 ## Expertise
