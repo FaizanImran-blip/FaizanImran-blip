@@ -1,5 +1,3 @@
-# Faizan Imran – Full-Stack & AI Engineer
-
 ## About Me
 Full-Stack Developer & AI Engineer with 5+ years of experience building scalable, AI-driven applications for startups and enterprises. I combine practical solo entrepreneurship with expertise in modern technologies to deliver impactful products.
 
