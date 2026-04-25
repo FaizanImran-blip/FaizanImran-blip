@@ -2,5 +2,5 @@
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-faizan.cpp%40gmail.com-black?style=for-the-badge&logo=gmail)](mailto:faizan.cpp@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faizan.cpp%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:faizan.cpp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan%20Imran-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-imran-b5403537a/)
