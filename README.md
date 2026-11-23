@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:196c2e,100:2ea44f&section=header&text=Faizan%20Imran&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Senior%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:196c2e,100:2ea44f&section=header&text=Faizan%20Imran&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AIr%20Software%20Engineer%20%C2%B7%20CTO%20&descSize=22&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=50&lines=Building+AI+products+end-to-end+%F0%9F%9A%80;LLM+Pipelines+%7C+RAG+Agents+%7C+AI+Automation;Creating+new+evaluations+to+push+AI+forward+%F0%9F%A7%AA;Flutter+%7C+Next.js+%7C+Laravel+%7C+Python" alt="Typing SVG" />
