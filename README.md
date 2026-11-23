@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior AI Engineer & Full-Stack Developer** with **5+ years** of experience turning ideas into production-ready AI products.
+> ** AI Software Engineer ** with **5+ years** of experience turning ideas into production-ready AI products.
 >
 > I design **LLM pipelines, RAG agents, AI chatbots and automation workflows**, and I build **custom evaluation frameworks** that measure AI quality and push it further. Then I ship everything inside fast, clean and scalable apps using **Flutter, Next.js, Laravel and Python**.
 >
