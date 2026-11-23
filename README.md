@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-### Languages & Technologies
+### Technologies
 
 <img src="https://skillicons.dev/icons?i=python,flutter,dart,nextjs,react,ts,js,laravel,php,nodejs,postgres,mysql&theme=dark" alt="Programming Languages and Technologies" />
 
