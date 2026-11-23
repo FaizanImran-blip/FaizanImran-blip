@@ -81,9 +81,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide_border=false&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&count_private=true&include_all_commits=true" alt="stats" />
@@ -96,37 +93,24 @@
 </div>
 
 ---
-
-## 🏅 Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FaizanImran-blip&theme=github&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanImran-blip&theme=github-compact&bg_color=0d1117&color=2ea44f&line=2ea44f&point=ffffff&area=true&area_color=2ea44f&hide_border=true" alt="activity graph" width="100%" />
 </div>
 
-### 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/FaizanImran-blip/FaizanImran-blip/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
-
 ---
-
-## 🤝 Let's Build Something Great
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=700&lines=AI+Products+%7C+LLM+%26+RAG+Solutions;AI+Automation+%26+Evaluation+Pipelines;Full-Stack+Apps+%28Flutter+%7C+Next.js+%7C+Laravel%29" alt="services" />
 
 <br/><br/>
-
 [![Email](https://img.shields.io/badge/Email-faizan.cpp%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.cpp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan%20Imran-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-imran-b5403537a/)
 
