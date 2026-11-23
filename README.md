@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=FaizanImran-blip&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="experience" />
 <img src="https://img.shields.io/badge/Open%20To-AI%20Products%20%26%20Collabs-0d1117?style=for-the-badge&logo=openai&logoColor=2ea44f" alt="open to" />
 
@@ -86,12 +86,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9&border_color=2ea44f" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=FaizanImran-blip&show_icons=true&hide_border=false&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanImran-blip&layout=compact&hide_border=false&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9&border_color=2ea44f" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&border=2ea44f" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=FaizanImran-blip&theme=dark&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&border=2ea44f" alt="streak" />
 
 </div>
 
@@ -100,7 +100,7 @@
 ## 🏅 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=github&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizanImran-blip&theme=github&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 </div>
 
 ---
@@ -108,13 +108,13 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=2ea44f&line=2ea44f&point=ffffff&area=true&area_color=2ea44f&hide_border=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanImran-blip&theme=github-compact&bg_color=0d1117&color=2ea44f&line=2ea44f&point=ffffff&area=true&area_color=2ea44f&hide_border=true" alt="activity graph" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/FaizanImran-blip/FaizanImran-blip/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
